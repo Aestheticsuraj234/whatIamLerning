@@ -6,7 +6,7 @@ export default function DetailsScreen({ route, navigation }) {
   return (
     <View>
       <Text>Details Screen</Text>
-      <Text>ID: {id}</Text>
+      <Text>ID</Text>
 
       {/* Push same screen again with new param */}
       <Button
